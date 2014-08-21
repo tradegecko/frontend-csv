@@ -1,0 +1,15 @@
+SKU,Size,Flavour,Icing ,Retail Price,Wholesale Price,Publish Online
+CUPCAKE-VAN,Cupcake,Vanilla,None,2,,TRUE
+CUPCAKE-VAN-SPR,Cupcake,,Sprinkles,2.2,,TRUE
+CUPCAKE-VAN-FLA,Cupcake,Vanilla,Sprinkles,2.2,,TRUE
+CUPCAKE-CHOC,Cupcake,Chocolate,None,2,,TRUE
+CUPCAKE-CHOC-SPR,Cupcake,Chocolate,Sprinkles,,,TRUE
+CUPCAKE-CHOC-FLAKE,Cupcake,Chocolate,Flake,2.2,,TRUE
+CAKE-VANILLA-M,"10""",Vanilla,None,,,FALSE
+CAKE-CHOC-M,"10""",Chocolate,None,,20,FALSE
+CAKE-VANILLA-M,"16""",Vanilla,None,,50,FALSE
+CAKE-CHOC-M,"16""",Chocolate,None,,50,FALSE
+CAKE-CHOC-MM,"16""",Chocolate,None,,100,TRUE
+,"17""",Chocolate,None,110,100,TRUE
+CAKE-VANILLA-M,"17""",Vanilla,None,120,100,TRUE
+,,,,,,
